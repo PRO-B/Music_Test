@@ -1,24 +1,8 @@
-[
-
 {
-"id":"1",
-"img":"https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png"
-} ,
-
-  {
-"id":"2",
-"img":"https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png"
-} ,
-
-  {
-"id":"3",
-"img":"https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png"
-} ,
-
-  {
-"id":"4",
-"img":"https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png"
-} 
-
-
-]
+  "home_T": "https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png",
+  "home_F": "https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png",
+  "profile_T": "https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png",
+  "profile_F": "https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png",
+  "music_T": "https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png",
+  "music_F": "https://raw.githubusercontent.com/PRO-B/Music_Test/refs/heads/main/HOME.png" 
+}
